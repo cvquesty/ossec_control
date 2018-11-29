@@ -7,12 +7,15 @@
 
   # OSSEC Module
   mod 'ossec',
-    :git => 'https://github.com/cvquesty/ossec.git'
+    :git    => 'https://github.com/cvquesty/ossec.git',
+    :branch => 'development'
 
   # Roles
   mod 'roles',
-    :git => 'https://github.com/cvquesty/roles.git'
+    :git    => 'https://github.com/cvquesty/roles.git',
+    :branch => 'production'
 
   # Profiles
   mod 'profiles',
-    :git => 'https://github.com/cvquesty/profiles.git'
+    :git    => 'https://github.com/cvquesty/profiles.git',
+    :branch => 'production'
