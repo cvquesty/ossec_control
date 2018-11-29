@@ -7,4 +7,4 @@
 
   # OSSEC Module
   mod 'ossec',
-    :git => 'https://github.com/cvquesty/ossec.git',
+    :git => 'https://github.com/cvquesty/ossec.git'
