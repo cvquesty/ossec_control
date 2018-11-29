@@ -8,3 +8,11 @@
   # OSSEC Module
   mod 'ossec',
     :git => 'https://github.com/cvquesty/ossec.git'
+
+  # Roles
+  mod 'roles',
+    :git => 'https://github.com/cvquesty/roles.git'
+
+  # Profiles
+  mod 'profiles',
+    :git => 'https://github.com/cvquesty/profiles.git'
