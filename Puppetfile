@@ -8,7 +8,7 @@
   # OSSEC Module
   mod 'ossec',
     :git    => 'https://github.com/cvquesty/ossec.git',
-    :branch => 'development'
+    :branch => 'production'
 
   # Roles
   mod 'roles',
